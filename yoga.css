@@ -50,6 +50,23 @@ footer {
 	text-align: center;
 	padding: 1em; 
 }
+table {
+	margin: auto;
+	width: 60%;
+	border: 1px solid purple;
+	border-collapse: collapse;
+	margin-bottom: 1em;
+}
+td, th {
+	padding: 5px;
+	border: 1px solid purple;
+}
+caption { 
+	margin: 1em;
+	font-weight: bold;
+	font-size: 120%;
+}
+tr:nth-of-type(even) { background-color: #9BC1C2; }
 .studio { font-style: italic; }
 .floatleft { 
 	float: left; 
