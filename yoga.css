@@ -20,7 +20,7 @@ nav {
 	font-weight: bold;
 	padding: 1em; 
 	float: left; 
-	width: 160px; 
+	width: 200px; 
 }
 nav a { 
 	text-decoration: none; 
@@ -39,10 +39,8 @@ nav ul {
 	padding-left: 0px; 
 }
 main { 
-	padding-left: 2em;
-	padding-right: 2em;
-	display: block;
-	margin-left: 170px; 
+	margin-left: 210px;
+	padding-right: 2em; 
 	padding-top: 1em; 
 }
 footer { 
@@ -55,7 +53,7 @@ footer {
 .studio { font-style: italic; }
 .floatleft { 
 	float: left; 
-	margin-right: 4em; 
+	margin-right: 3em; 
 }
 .clear { clear: both; }
 #wrapper { 
