@@ -66,6 +66,7 @@ caption {
 	font-weight: bold;
 	font-size: 120%;
 }
+audio { display: block; margin: 1em; }
 tr:nth-of-type(even) { background-color: #9BC1C2; }
 form { padding: 3em; }
 label {
